@@ -1,3 +1,5 @@
+git commit --amend
+
 # Mahesh09
 ### 👋 Hi, I'm Mahesh
 
